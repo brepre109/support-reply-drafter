@@ -1,0 +1,1 @@
+{"description": "Tool-calling LLM agent that drafts support replies from order/product data, with an LLM-as-judge replay eval harness", "topics": ["llm", "ai-agents", "llm-evaluation", "customer-support", "shopify", "python"], "homepage": ""}
