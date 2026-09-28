@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "support-reply-drafter"
+version = "0.1.0"
+description = "Tool-calling LLM agent that drafts customer-support replies, with an LLM-as-judge replay eval harness"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Brett Prejeant" }]
+requires-python = ">=3.10"
+dependencies = ["requests>=2.28"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+drafter = "reply_drafter.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["reply_drafter*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
