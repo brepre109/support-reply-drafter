@@ -1,0 +1,1030 @@
+{
+  "shop": {
+    "name": "Fernhollow Candle Co.",
+    "domain": "shop.example.com",
+    "timezone": "America/Los_Angeles",
+    "currency": "USD",
+    "support_signoff": "Warmly,\nThe Fernhollow team",
+    "voice": "Warm, concise and practical. First names, no exclamation-mark overload, no emoji. Never invent dates, prices or policies."
+  },
+  "products": [
+    {
+      "id": "gid://shopify/Product/7001",
+      "handle": "cedar-smoke-candle",
+      "title": "Cedar & Smoke Candle",
+      "status": "ACTIVE",
+      "productType": "Candle",
+      "tags": [
+        "woody",
+        "bestseller"
+      ],
+      "description": "Cedarwood, smoked vanilla and black pepper. Soy-coconut wax, cotton wick, hand-poured in small batches.",
+      "details": {
+        "wax": "soy-coconut blend (vegan)",
+        "wick": "cotton",
+        "scent_notes": "cedarwood, smoked vanilla, black pepper"
+      },
+      "variants": [
+        {
+          "sku": "FH-CDL-CEDAR-8",
+          "title": "8 oz",
+          "price": "28.00",
+          "inventory": 42,
+          "burn_time": "45-50 hours"
+        },
+        {
+          "sku": "FH-CDL-CEDAR-14",
+          "title": "14 oz",
+          "price": "42.00",
+          "inventory": 0,
+          "burn_time": "80-90 hours"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7002",
+      "handle": "wild-fig-candle",
+      "title": "Wild Fig Candle",
+      "status": "ACTIVE",
+      "productType": "Candle",
+      "tags": [
+        "fruity"
+      ],
+      "description": "Ripe fig, green leaves and a little cedar. Soy-coconut wax, cotton wick.",
+      "details": {
+        "wax": "soy-coconut blend (vegan)",
+        "wick": "cotton",
+        "scent_notes": "fig, fig leaf, cedar"
+      },
+      "variants": [
+        {
+          "sku": "FH-CDL-FIG-8",
+          "title": "8 oz",
+          "price": "28.00",
+          "inventory": 17,
+          "burn_time": "45-50 hours"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7003",
+      "handle": "sea-salt-sage-candle",
+      "title": "Sea Salt & Sage Candle",
+      "status": "ACTIVE",
+      "productType": "Candle",
+      "tags": [
+        "fresh"
+      ],
+      "description": "Sea salt, sage and driftwood. Soy-coconut wax, cotton wick.",
+      "details": {
+        "wax": "soy-coconut blend (vegan)",
+        "wick": "cotton",
+        "scent_notes": "sea salt, sage, driftwood"
+      },
+      "variants": [
+        {
+          "sku": "FH-CDL-SEA-8",
+          "title": "8 oz",
+          "price": "28.00",
+          "inventory": 3,
+          "burn_time": "45-50 hours"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7004",
+      "handle": "pumpkin-chai-candle",
+      "title": "Pumpkin Chai Candle (seasonal)",
+      "status": "DRAFT",
+      "productType": "Candle",
+      "tags": [
+        "seasonal",
+        "autumn"
+      ],
+      "description": "Seasonal: spiced pumpkin, chai and clove. Available each autumn.",
+      "details": {
+        "wax": "soy-coconut blend (vegan)",
+        "wick": "cotton",
+        "scent_notes": "pumpkin, chai spice, clove"
+      },
+      "variants": [
+        {
+          "sku": "FH-CDL-PUMP-8",
+          "title": "8 oz",
+          "price": "28.00",
+          "inventory": 0,
+          "burn_time": "45-50 hours"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7005",
+      "handle": "unscented-candle",
+      "title": "Unscented Candle",
+      "status": "ACTIVE",
+      "productType": "Candle",
+      "tags": [
+        "unscented"
+      ],
+      "description": "The same soy-coconut wax and cotton wick with no added fragrance.",
+      "details": {
+        "wax": "soy-coconut blend (vegan)",
+        "wick": "cotton",
+        "scent_notes": "none"
+      },
+      "variants": [
+        {
+          "sku": "FH-CDL-UNSC-8",
+          "title": "8 oz",
+          "price": "24.00",
+          "inventory": 20,
+          "burn_time": "45-50 hours"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7006",
+      "handle": "lavender-fields-reed-diffuser",
+      "title": "Lavender Fields Reed Diffuser",
+      "status": "ACTIVE",
+      "productType": "Diffuser",
+      "tags": [
+        "floral"
+      ],
+      "description": "Lavender, bergamot and a soft musk. 100 ml with 8 natural rattan reeds. Lasts about 8-10 weeks.",
+      "details": {
+        "volume": "100 ml",
+        "reeds": "8 rattan reeds",
+        "lasts": "about 8-10 weeks",
+        "scent_notes": "lavender, bergamot, musk"
+      },
+      "variants": [
+        {
+          "sku": "FH-DIF-LAV",
+          "title": "100 ml",
+          "price": "34.00",
+          "inventory": 25
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7007",
+      "handle": "lavender-fields-diffuser-refill",
+      "title": "Lavender Fields Diffuser Refill",
+      "status": "ACTIVE",
+      "productType": "Diffuser",
+      "tags": [
+        "refill"
+      ],
+      "description": "200 ml refill for the Lavender Fields diffuser (two full refills). Includes 8 fresh reeds.",
+      "details": {
+        "volume": "200 ml",
+        "reeds": "8 fresh reeds included"
+      },
+      "variants": [
+        {
+          "sku": "FH-DIF-REFILL-LAV",
+          "title": "200 ml",
+          "price": "22.00",
+          "inventory": 30
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7008",
+      "handle": "brass-wick-trimmer",
+      "title": "Brass Wick Trimmer",
+      "status": "ACTIVE",
+      "productType": "Accessory",
+      "tags": [
+        "accessory"
+      ],
+      "description": "Angled brass trimmer that cuts wicks to 1/4 inch and catches the trimmings.",
+      "details": {
+        "material": "solid brass"
+      },
+      "variants": [
+        {
+          "sku": "FH-ACC-TRIM",
+          "title": "Default",
+          "price": "16.00",
+          "inventory": 60
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7009",
+      "handle": "brass-candle-snuffer",
+      "title": "Brass Candle Snuffer",
+      "status": "ACTIVE",
+      "productType": "Accessory",
+      "tags": [
+        "accessory"
+      ],
+      "description": "Put candles out without smoke or splattered wax.",
+      "details": {
+        "material": "solid brass"
+      },
+      "variants": [
+        {
+          "sku": "FH-ACC-SNUF",
+          "title": "Default",
+          "price": "14.00",
+          "inventory": 0
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7010",
+      "handle": "discovery-trio-gift-set",
+      "title": "Discovery Trio Gift Set",
+      "status": "ACTIVE",
+      "productType": "Gift Set",
+      "tags": [
+        "gift"
+      ],
+      "description": "Three 3 oz candles: Cedar & Smoke, Wild Fig and Sea Salt & Sage, in a gift box. About 18 hours burn time each.",
+      "details": {
+        "contents": "3 x 3 oz candles",
+        "burn_time": "about 18 hours each"
+      },
+      "variants": [
+        {
+          "sku": "FH-GIFT-TRIO",
+          "title": "Default",
+          "price": "36.00",
+          "inventory": 12
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/7011",
+      "handle": "digital-gift-card",
+      "title": "Digital Gift Card",
+      "status": "ACTIVE",
+      "productType": "Gift Card",
+      "tags": [
+        "gift"
+      ],
+      "description": "Delivered by email, never expires.",
+      "details": {},
+      "variants": [
+        {
+          "sku": "FH-GIFT-CARD-25",
+          "title": "$25",
+          "price": "25.00",
+          "inventory": null
+        },
+        {
+          "sku": "FH-GIFT-CARD-50",
+          "title": "$50",
+          "price": "50.00",
+          "inventory": null
+        },
+        {
+          "sku": "FH-GIFT-CARD-100",
+          "title": "$100",
+          "price": "100.00",
+          "inventory": null
+        }
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "topic": "shipping",
+      "title": "Shipping",
+      "text": "Orders are packed within 1-2 business days and ship from Portland, Oregon. US Standard (USPS Ground Advantage) takes 3-6 business days and costs $6.95, free on orders of $60 or more after discounts. US Express (UPS 2nd Day Air) is $14.95. We ship to Canada and the United Kingdom (7-14 business days, $18; import duties and taxes are paid by the customer on delivery). We do not currently ship to other countries. Tracking is emailed when the label is created."
+    },
+    {
+      "topic": "returns",
+      "title": "Returns & refunds",
+      "text": "Unused, unburned items can be returned within 30 days of delivery. Start a return by replying to your order confirmation email; the customer pays return shipping unless we made a mistake. Refunds go to the original payment method within 5 business days after we receive the return. Burned candles can't be returned unless they are defective (for example a wick that won't stay lit). Gift cards are non-refundable."
+    },
+    {
+      "topic": "damaged",
+      "title": "Damaged or wrong items",
+      "text": "If something arrives broken or we sent the wrong item, send a photo within 7 days of delivery and we will ship a free replacement or refund it - a team member reviews every claim. You don't need to return broken glass."
+    },
+    {
+      "topic": "order-changes",
+      "title": "Changing or cancelling an order",
+      "text": "We can change the address or cancel an order until it has been packed, usually within 24 hours of ordering. A team member has to make the change, so reply as soon as possible. Once a shipping label exists we can't reroute the parcel, but the carrier may offer redirect options."
+    },
+    {
+      "topic": "discounts",
+      "title": "Discount codes",
+      "text": "WELCOME10 gives 10% off a first order. Only one code can be used per order, and codes don't apply to gift cards. FALL15 was an autumn 2025 promotion and has expired."
+    },
+    {
+      "topic": "wholesale",
+      "title": "Wholesale",
+      "text": "Retailers can apply at /pages/wholesale. Opening orders have a $250 minimum; reorders have a $150 minimum. Wholesale pricing is 50% off retail. Payment is by card for the first two orders, then net-30 terms are available."
+    },
+    {
+      "topic": "candle-care",
+      "title": "Candle care & safety",
+      "text": "Trim the wick to 1/4 inch before every burn. Burn for 2-3 hours the first time, until the melted wax reaches the edge, to prevent tunnelling. Don't burn for more than 4 hours at a time and never leave a candle unattended. Our fragrance oils are phthalate-free and our wax is vegan; we never test on animals. If you have pets or allergies, burn in a ventilated room and ask your vet or doctor about specific ingredients."
+    },
+    {
+      "topic": "gifts",
+      "title": "Gift orders",
+      "text": "Tick 'This is a gift' at checkout to add a free gift note; gift orders ship without prices on the packing slip. Gift wrap is not available. Digital gift cards are delivered by email and never expire."
+    }
+  ],
+  "customers": [
+    {
+      "name": "Maya Torres",
+      "email": "maya.torres@example.com"
+    },
+    {
+      "name": "Jonah Reed",
+      "email": "jonah.reed@example.com"
+    },
+    {
+      "name": "Priya Nair",
+      "email": "priya.nair@example.com"
+    },
+    {
+      "name": "Sam Okafor",
+      "email": "sam.okafor@example.com"
+    },
+    {
+      "name": "Lena Fischer",
+      "email": "lena.fischer@example.com"
+    },
+    {
+      "name": "Carlos Mendes",
+      "email": "carlos.mendes@example.com"
+    },
+    {
+      "name": "Hannah Kim",
+      "email": "hannah.kim@example.com"
+    },
+    {
+      "name": "Olivia Brooks",
+      "email": "olivia.brooks@example.com"
+    },
+    {
+      "name": "Theo Grant",
+      "email": "theo.grant@example.com"
+    },
+    {
+      "name": "Aisha Bello",
+      "email": "aisha.bello@example.com"
+    },
+    {
+      "name": "Grace Liu",
+      "email": "grace.liu@example.com"
+    },
+    {
+      "name": "Ben Carter",
+      "email": "ben.carter@example.com"
+    },
+    {
+      "name": "Nora Walsh",
+      "email": "nora.walsh@example.com"
+    },
+    {
+      "name": "Ravi Shah",
+      "email": "ravi.shah@example.com"
+    },
+    {
+      "name": "Emma Novak",
+      "email": "emma.novak@example.com"
+    },
+    {
+      "name": "Isla Morgan",
+      "email": "isla.morgan@example.com"
+    },
+    {
+      "name": "Marcus Hill",
+      "email": "marcus.hill@example.com"
+    },
+    {
+      "name": "Zoe Adams",
+      "email": "zoe.adams@example.com"
+    },
+    {
+      "name": "Owen Price",
+      "email": "owen.price@example.com"
+    },
+    {
+      "name": "Fatima Khan",
+      "email": "fatima.khan@example.com"
+    },
+    {
+      "name": "Leo Martin",
+      "email": "leo.martin@example.com"
+    },
+    {
+      "name": "Ruby Evans",
+      "email": "ruby.evans@example.com"
+    },
+    {
+      "name": "Daniel Cho",
+      "email": "daniel.cho@example.com"
+    },
+    {
+      "name": "Chloe Dubois",
+      "email": "chloe.dubois@example.com"
+    },
+    {
+      "name": "Henry Scott",
+      "email": "henry.scott@example.com"
+    },
+    {
+      "name": "Mia Rossi",
+      "email": "mia.rossi@example.com"
+    },
+    {
+      "name": "Felix Wong",
+      "email": "felix.wong@example.com"
+    },
+    {
+      "name": "Ella James",
+      "email": "ella.james@example.com"
+    }
+  ],
+  "orders": [
+    {
+      "name": "#1041",
+      "email": "maya.torres@example.com",
+      "createdAt": "2026-03-02T17:20:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-CEDAR-8",
+          "title": "Cedar & Smoke Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        },
+        {
+          "sku": "FH-CDL-FIG-8",
+          "title": "Wild Fig Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-03T21:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001041",
+          "events": [
+            {
+              "at": "2026-03-03T21:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-04T02:10:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-07T13:40:00Z",
+              "status": "in_transit",
+              "location": "Denver, CO"
+            },
+            {
+              "at": "2026-03-09T09:05:00Z",
+              "status": "out_for_delivery",
+              "location": "Austin, TX"
+            },
+            {
+              "at": "2026-03-09T19:12:00Z",
+              "status": "delivered",
+              "location": "Austin, TX"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1042",
+      "email": "jonah.reed@example.com",
+      "createdAt": "2026-03-05T09:10:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-DIF-LAV",
+          "title": "Lavender Fields Reed Diffuser - 100 ml",
+          "quantity": 1,
+          "price": "34.00"
+        }
+      ],
+      "fulfillments": [],
+      "note": null
+    },
+    {
+      "name": "#1043",
+      "email": "priya.nair@example.com",
+      "createdAt": "2026-03-01T15:00:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-GIFT-TRIO",
+          "title": "Discovery Trio Gift Set",
+          "quantity": 1,
+          "price": "36.00"
+        },
+        {
+          "sku": "FH-ACC-TRIM",
+          "title": "Brass Wick Trimmer",
+          "quantity": 1,
+          "price": "16.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-02T20:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001043",
+          "events": [
+            {
+              "at": "2026-03-02T20:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-03T01:30:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-06T08:00:00Z",
+              "status": "exception",
+              "location": "Chicago, IL - weather delay"
+            },
+            {
+              "at": "2026-03-10T16:00:00Z",
+              "status": "delivered",
+              "location": "Evanston, IL"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1044",
+      "email": "sam.okafor@example.com",
+      "createdAt": "2026-03-08T12:00:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-CEDAR-8",
+          "title": "Cedar & Smoke Candle - 8 oz",
+          "quantity": 2,
+          "price": "28.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-09T18:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001044",
+          "events": [
+            {
+              "at": "2026-03-09T18:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-10T02:00:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-12T15:20:00Z",
+              "status": "delivered",
+              "location": "Seattle, WA"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1045",
+      "email": "lena.fischer@example.com",
+      "createdAt": "2026-03-10T08:30:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-SEA-8",
+          "title": "Sea Salt & Sage Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        },
+        {
+          "sku": "FH-CDL-UNSC-8",
+          "title": "Unscented Candle - 8 oz",
+          "quantity": 1,
+          "price": "24.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-11T19:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001045",
+          "events": [
+            {
+              "at": "2026-03-11T19:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-12T01:00:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-16T14:00:00Z",
+              "status": "delivered",
+              "location": "Boise, ID"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1046",
+      "email": "carlos.mendes@example.com",
+      "createdAt": "2026-03-12T22:15:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-FIG-8",
+          "title": "Wild Fig Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        }
+      ],
+      "fulfillments": [],
+      "note": null
+    },
+    {
+      "name": "#1047",
+      "email": "hannah.kim@example.com",
+      "createdAt": "2026-03-14T10:00:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Express",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-DIF-LAV",
+          "title": "Lavender Fields Reed Diffuser - 100 ml",
+          "quantity": 1,
+          "price": "34.00"
+        },
+        {
+          "sku": "FH-DIF-REFILL-LAV",
+          "title": "Lavender Fields Diffuser Refill - 200 ml",
+          "quantity": 1,
+          "price": "22.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-16T18:30:00Z",
+          "carrier": "UPS",
+          "trackingNumber": "1ZEXAMPLE0000001047",
+          "events": [
+            {
+              "at": "2026-03-16T18:30:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-17T03:00:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-18T15:45:00Z",
+              "status": "delivered",
+              "location": "Sacramento, CA"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1048",
+      "email": "olivia.brooks@example.com",
+      "createdAt": "2026-03-15T19:40:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-GIFT-TRIO",
+          "title": "Discovery Trio Gift Set",
+          "quantity": 2,
+          "price": "36.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-17T17:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001048",
+          "events": [
+            {
+              "at": "2026-03-17T17:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-18T01:00:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-21T11:00:00Z",
+              "status": "delivered",
+              "location": "Minneapolis, MN"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1049",
+      "email": "theo.grant@example.com",
+      "createdAt": "2026-03-18T07:05:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "Canada",
+      "shippingCountry": "CA",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-CEDAR-8",
+          "title": "Cedar & Smoke Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        },
+        {
+          "sku": "FH-ACC-TRIM",
+          "title": "Brass Wick Trimmer",
+          "quantity": 1,
+          "price": "16.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-19T20:00:00Z",
+          "carrier": "Canada Post",
+          "trackingNumber": "CPEXAMPLE0001049CA",
+          "events": [
+            {
+              "at": "2026-03-19T20:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-21T10:00:00Z",
+              "status": "in_transit",
+              "location": "Blaine, WA"
+            },
+            {
+              "at": "2026-03-24T09:00:00Z",
+              "status": "in_transit",
+              "location": "Vancouver, BC - held for customs"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1050",
+      "email": "aisha.bello@example.com",
+      "createdAt": "2026-03-20T13:00:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-UNSC-8",
+          "title": "Unscented Candle - 8 oz",
+          "quantity": 1,
+          "price": "24.00"
+        }
+      ],
+      "fulfillments": [],
+      "note": null
+    },
+    {
+      "name": "#1051",
+      "email": "grace.liu@example.com",
+      "createdAt": "2026-03-22T16:00:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-FIG-8",
+          "title": "Wild Fig Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        },
+        {
+          "sku": "FH-CDL-SEA-8",
+          "title": "Sea Salt & Sage Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-23T19:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001051",
+          "events": [
+            {
+              "at": "2026-03-23T19:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-24T02:00:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-03-27T12:00:00Z",
+              "status": "delivered",
+              "location": "Phoenix, AZ"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1052",
+      "email": "ben.carter@example.com",
+      "createdAt": "2026-03-25T11:11:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-CEDAR-8",
+          "title": "Cedar & Smoke Candle - 8 oz",
+          "quantity": 3,
+          "price": "28.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-03-26T18:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001052",
+          "events": [
+            {
+              "at": "2026-03-26T18:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            }
+          ]
+        }
+      ],
+      "note": null
+    },
+    {
+      "name": "#1053",
+      "email": "nora.walsh@example.com",
+      "createdAt": "2026-03-27T09:00:00Z",
+      "financialStatus": "REFUNDED",
+      "cancelledAt": "2026-03-27T15:00:00Z",
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-DIF-LAV",
+          "title": "Lavender Fields Reed Diffuser - 100 ml",
+          "quantity": 1,
+          "price": "34.00"
+        }
+      ],
+      "fulfillments": [],
+      "note": null
+    },
+    {
+      "name": "#1054",
+      "email": "ravi.shah@example.com",
+      "createdAt": "2026-04-01T14:00:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-GIFT-TRIO",
+          "title": "Discovery Trio Gift Set",
+          "quantity": 1,
+          "price": "36.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-04-02T19:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001054",
+          "events": [
+            {
+              "at": "2026-04-02T19:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-04-03T01:00:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-04-06T15:00:00Z",
+              "status": "delivered",
+              "location": "Madison, WI"
+            }
+          ]
+        }
+      ],
+      "note": "Gift - please include note: Happy birthday, Mum!"
+    },
+    {
+      "name": "#1055",
+      "email": "emma.novak@example.com",
+      "createdAt": "2026-04-03T10:30:00Z",
+      "financialStatus": "PAID",
+      "cancelledAt": null,
+      "shippingMethod": "US Standard",
+      "shippingCountry": "US",
+      "lineItems": [
+        {
+          "sku": "FH-CDL-SEA-8",
+          "title": "Sea Salt & Sage Candle - 8 oz",
+          "quantity": 1,
+          "price": "28.00"
+        }
+      ],
+      "fulfillments": [
+        {
+          "createdAt": "2026-04-04T18:00:00Z",
+          "carrier": "USPS",
+          "trackingNumber": "9400100000000000001055",
+          "events": [
+            {
+              "at": "2026-04-04T18:00:00Z",
+              "status": "label_created",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-04-05T02:00:00Z",
+              "status": "in_transit",
+              "location": "Portland, OR"
+            },
+            {
+              "at": "2026-04-08T17:30:00Z",
+              "status": "delivered",
+              "location": "Reno, NV"
+            }
+          ]
+        }
+      ],
+      "note": null
+    }
+  ]
+}
